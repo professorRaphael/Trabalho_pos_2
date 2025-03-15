@@ -68,4 +68,7 @@ Escreva um código que descreva um job MapReduce para realizar a mesma tarefa de
 
 ---
 
+Exemplo hadoop: https://colab.research.google.com/drive/1kxHuC_wf804aKDSJvHikCqyDv9CS4b_8?usp=sharing
+Exemplo PySpark: https://colab.research.google.com/drive/12fXM9G0OPbvNoUPRFhBoSIafXUTpdtor?usp=sharing
+
 Boa avaliação!
